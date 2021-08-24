@@ -1,0 +1,9 @@
+1 - Certificar que o arquivo .jar do servidor na pasta dist do projeto ChatTF_Servidor foi executado por alguém.
+
+2 - Iniciar o arquivo .jar do servidor na pasta dist do projeto ChatTF_Cliente.
+
+3 - Fornecer o nome, porta e o endereço do servidor.
+
+4 - atualizar a lista.
+
+5 - selecionar um usuário conectado e iniciar um chat.
